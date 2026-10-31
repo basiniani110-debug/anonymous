@@ -1,12 +1,17 @@
 [
   {
     "title": "Batman: El Caballero de la Noche",
+    "type": "movie",
     "posterUrl": "https://tmdb.org",
     "embedUrl": "https://streamtape.com"
   },
   {
-    "title": "Inception (El Origen)",
+    "title": "Breaking Bad (Serie)",
+    "type": "serie",
     "posterUrl": "https://tmdb.org",
-    "embedUrl": "https://streamtape.com"
+    "episodes": [
+      { "name": "Capítulo 1: Piloto", "embedUrl": "https://streamtape.com" },
+      { "name": "Capítulo 2: El gato en la bolsa", "embedUrl": "https://streamtape.com" }
+    ]
   }
 ]
